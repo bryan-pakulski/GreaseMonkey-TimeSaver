@@ -29,10 +29,21 @@ Social media was a mistake, the infinite feed and doomscrolling wastes so much t
 Blocks the feed but keeps messages, groups, marketplace etc.. accessible, avoid the slop.
 
 
-
 Before                     |              After
 :-------------------------:|:-------------------------:
 ![image](https://github.com/user-attachments/assets/e279e008-68a6-4abb-8274-01ff6e25077c) | ![image](https://github.com/user-attachments/assets/9eaf24a8-1546-4e0c-87b3-45a9b9851231)
+
+
+# Youtube:
+
+`youtube.js`
+
+Get rid of shorts from the home panel.
+
+Before                     |              After
+:-------------------------:|:-------------------------:
+![image](https://github.com/user-attachments/assets/cd08aa2f-1be4-4dd4-a9d2-926f77e5559e) | ![image](https://github.com/user-attachments/assets/df93cfd5-ece6-4b1f-93cf-c9c9deada993)
+
 
 ## Installation
 * Install GreaseMonkey
